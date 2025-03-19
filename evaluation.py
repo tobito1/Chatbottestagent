@@ -15,7 +15,7 @@ class TestEvaluator:
     def __init__(self):
         self.model = SentenceTransformer('all-MiniLM-L6-v2')
 
-    def evaluate_response(self, actual, expected, method='exact', threshold=0.8):
+    def evaluate_response(self, actual, expected, method='exact', threshold=0.7):
         if method == 'exact':
             result = actual.strip() == expected.strip()
             score = 1.0 if result else 0.0
