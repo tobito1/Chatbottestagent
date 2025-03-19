@@ -1,0 +1,153 @@
+test_case,input,expected,actual,evaluation_method,result,score
+1,"""Can you provide details on the Post Matric Scholarship for Students with Disabilities?""","Here are the details on the ""Post Matric Scholarship Students With Disabilities"" scheme:
+
+• This scheme provides financial assistance to students with disabilities pursuing post-matric qualifications like Class 11th, 12th, Polytechnics, Diplomas, Bachelor's, and Master's degrees in India.
+
+• To be eligible, the applicant must be a student with a disability of 40% or above, and their total annual family income should not exceed ₹2.5 lakh.
+
+• The applicant must not be availing any other scholarship from the government or be the third sibling receiving this scholarship.
+
+[Source](https://www.myscheme.gov.in/schemes/post-dis)","Here are the details on the ""Post Matric Scholarship Students With Disabilities"" scheme:
+
+- This scheme provides financial assistance to students with disabilities pursuing post-matric qualifications like Class 11th, 12th, Polytechnics, Diplomas, Bachelor's, and Master's degrees in India.
+
+- To be eligible, the applicant must be a student with a disability of 40% or above, and their total annual family income must not exceed ₹2.5 lakh.
+
+- The applicant must not be availing any other scholarship from the government or be the third child in the family receiving this scholarship.
+
+- The scholarship amount varies based on the level of education and whether hostel facilities are availed.
+
+[Source](https://www.myscheme.gov.in/schemes/post-dis)",semantic,True,0.9668959379196167
+2,"""What is the National Youth Corps scheme?""","The **National Youth Corps** scheme is a volunteership scheme by the Ministry of Youth Affairs and Sports to engage youth aged 18-29 years in nation-building activities. Key details:
+
+- Youth volunteers receive a monthly honorarium of ₹5,000 for serving up to 2 years.
+- Each volunteer is required to be IT-savvy and capable of preparing reports, documentation, and using mobile apps.
+- The scheme is implemented by the Nehru Yuva Kendra Sangathan (NYKS).
+
+[Source](https://www.myscheme.gov.in/schemes/nyc)","The **National Youth Corps** scheme is a volunteership scheme by the Ministry of Youth Affairs and Sports to engage youth aged 18-29 years in nation-building activities. Key details:
+
+- Youth volunteers receive a monthly honorarium of ₹5,000 for serving up to 2 years.
+- Each volunteer is required to be IT-savvy and capable of preparing reports, documentation, and using mobile apps.
+- The scheme is implemented by the Nehru Yuva Kendra Sangathan (NYKS).
+
+[Source](https://www.myscheme.gov.in/schemes/nyc)",semantic,True,1.000000238418579
+3,"""Tell me about the Pre Matric Scholarship for Scheduled Tribe Students.""","**Pre Matric Scholarship For Scheduled Tribe Students** is a scholarship scheme by the Ministry of Tribal Affairs for regular, full-time students from Scheduled Tribes studying in Class 9th and 10th in a government school or a school recognized by the government or a Central/State Board of Secondary Education.
+
+• The income of the student's parents/guardians should not exceed ₹2.00 lakh per annum.
+
+• The scheme aims to support the parents of ST children for their education so that the incidence of dropouts, especially in the transition from elementary to secondary stage, is minimized.
+
+• The scholarship will be available for studies in India only and will be awarded by the government of the state/union territory to which the applicant belongs.
+
+• The scholarship for studying in any class will be available for only one year.
+
+[Source](https://www.myscheme.gov.in/schemes/pre-st)","• **Pre Matric Scholarship For Scheduled Tribe Students** is a scholarship scheme by the Ministry of Tribal Affairs for regular, full-time students from Scheduled Tribes studying in Class 9th and 10th in a government school or a school recognized by the government or a Central/State Board of Secondary Education.
+
+• The income of the student's parents/guardians should not exceed ₹2.00 lakh per annum.
+
+• The scheme aims to support the parents of ST children for their education so that the incidence of dropouts, especially in the transition from elementary to secondary stage, is minimized.
+
+• The scholarship will be available for studies in India only and will be awarded by the government of the state/union territory to which the applicant belongs.
+
+• The scholarship for studying in any class will be available for only one year.
+
+[Source](https://www.myscheme.gov.in/schemes/pre-st)",semantic,True,0.9991349577903748
+4,"""I need information on Top Class Education for Scheduled Caste Students.""","""Top Class Education For Scheduled Caste Students: This scheme is aimed at providing quality education to Scheduled Caste students through scholarships and financial assistance. It includes clear eligibility guidelines, application processes, and required documentation.""","• **Top Class Education For Scheduled Caste Students** is a scholarship scheme by the Ministry of Social Justice and Empowerment for Scheduled Caste students pursuing studies beyond class 12th admitted in a full-time course in one of the notified institutions.
+
+• The total annual family income from all sources must be less than or equal to Rs. 8.00 lakh. 
+
+• The benefit of the scheme will not be provided to more than 2 siblings in a family.
+
+• The scholarship, once awarded, will continue till the completion of the course, subject to satisfactory performance of the student.
+
+• The students who have studied class X from any of the Central/State/Municipal Govt. or Govt. aided schools (except KVS schools), shall be automatically qualified under the scheme.
+
+[Source](https://www.myscheme.gov.in/schemes/tce-sc)",semantic,True,0.8540385961532593
+5,"""What does the Skill Loan Scheme offer?""","""Skill Loan Scheme: This scheme provides financial loans to individuals seeking to enhance their skills through training programs. It explains eligibility criteria, loan details, the application process, and the documents required.""","The **Skill Loan Scheme** offers the following:
+
+- Institutional credit to individuals for skill development courses aligned with National Occupations Standards and Qualification Packs leading to a certificate/diploma/degree
+
+- Applicable to all member banks of the Indian Banks' Association (IBA) and other banks/financial institutions advised by RBI
+
+- Provides guidelines to banks for operationalizing the scheme
+
+- Eligibility - Any individual admitted to courses run by ITIs, Polytechnics, schools recognized by education boards, colleges affiliated to universities, training partners of NSDC/Sector Skill Councils, State Skill Missions
+
+- Courses aligned to National Skill Qualification Framework (NSQF)  
+
+- Loan amount - ₹5,000 to ₹1,50,000
+
+- Interest rate - Base rate (MCLR) + typically up to 1.5% 
+
+- Moratorium period - Duration of the course
+
+- Repayment period - 3 to 7 years based on loan amount
+
+- Covers course fees, expenses for completion like assessment, study material etc.
+
+- No collateral required from the beneficiary
+
+- Credit Guarantee Fund for Skill Development (CGFSSD) for loans sanctioned after 15 July 2015
+
+[Source](https://www.myscheme.gov.in/schemes/sl)",semantic,False,0.6738545894622803
+6,"""Can you give details about the Scheme for Financial Assistance for Veteran Artists?""","""Scheme For Financial Assistance For Veteran Artists: This initiative offers monetary support to veteran artists. It covers eligibility requirements, the application process, benefits provided, and the necessary documentation.""","Here are the key details about the **Scheme for Financial Assistance for Veteran Artists**:
+
+- The scheme aims to improve the financial and socio-economic status of veteran artists and scholars who have contributed significantly in their fields but are now facing indigent circumstances due to old age.
+
+- Under the scheme, financial assistance is provided in the form of a monthly allowance. 
+
+- The allowance given is shared between the Central and State/UT governments. The Central government's contribution does not exceed ₹5,500 per month per beneficiary.
+
+- To be eligible, male artists must be at least 50 years old, and female artists must be at least 40 years old. Their annual income should not exceed ₹50,000 (rural areas) or ₹60,000 (urban areas).
+
+- In case of the beneficiary's death, the allowance can be transferred to the spouse until their lifetime, subject to certain conditions.
+
+- The scheme is implemented by the Ministry of Culture with support from Zonal Cultural Centres.
+
+[Source](https://www.myscheme.gov.in/schemes/sfava)",semantic,True,0.7267951369285583
+7,"""What is the Nikshay Poshan Yojana?""","""Nikshay Poshan Yojana (Nutritional Support To TB Patients): This scheme provides nutritional support to tuberculosis patients to aid their recovery. It details eligibility, the application process, benefits, and the required documentation.""","• **Nikshay Poshan Yojana** is an incentive scheme under the National Health Mission (NHM) by the Central TB Division of the Ministry of Health and Family Welfare for Tuberculosis (TB) patients.
+
+• It provides nutritional support to all TB patients who have registered/notified themselves on the NIKSHAY portal on or after 1st April 2018, including existing TB patients under treatment.
+
+• The incentives can be distributed in cash (via Direct Benefit Transfer, preferably through Aadhaar-enabled bank accounts) or in-kind.
+
+• The scheme aims to ensure that TB patients receive proper nutrition during their treatment, which is crucial for their recovery and successful completion of the treatment regimen.
+
+[Source](https://www.myscheme.gov.in/schemes/npy)",semantic,True,0.8742270469665527
+8,"""Could you explain the Health Minister’s Discretionary Grant?""","""Health Minister’s Discretionary Grant: This grant offers financial assistance at the discretion of the Health Minister for health emergencies. It includes information on eligibility criteria, the application process, and documentation requirements.""","- **Health Minister's Discretionary Grant (HMDG)** is a health scheme by the Ministry of Health & Family Welfare for financially poor patients.
+
+- It aims to defray a part of the expenditure on hospitalization/treatment in government hospitals for life-threatening diseases covered under Rashtriya Arogya Nidhi (RAN).
+
+- Only those with an annual family income up to ₹1.25 lakh are eligible for financial assistance from HMDG.
+
+- Financial assistance is provided towards treatment in government hospitals including super specialty government hospitals/institutes.
+
+[Source](https://www.myscheme.gov.in/schemes/hmdg)",semantic,False,0.5697165131568909
+9,"""What information is available on the Indian Community Welfare Fund?""","""Indian Community Welfare Fund: This fund supports community welfare initiatives across India. The scheme outlines eligibility criteria, application procedures, and the required documentation for beneficiaries.""","Here are the key details about the **Indian Community Welfare Fund**:
+
+• It is a scheme by the Ministry of External Affairs (MEA) for the welfare of Overseas Indians, assisting them in distress situations.
+
+• The fund has been critical in emergency evacuation of Indian nationals from conflict zones, countries affected by natural disasters, and other challenging situations.
+
+• It has been extended to all Indian Missions and Posts abroad due to its immense utility.
+
+• The guidelines have been revised to expand the scope of welfare measures that can be extended through the fund, providing greater flexibility to Indian Missions and Posts abroad in swiftly addressing requests for assistance from Overseas Indians.
+
+[Source](https://www.myscheme.gov.in/schemes/icwf)",semantic,True,0.8175234198570251
+10,"""Tell me about the Financial Assistance Under The National Fund For Persons With Disabilities.""","""Financial Assistance Under The National Fund For Persons With Disabilities: This scheme provides monetary support to persons with disabilities. It explains the eligibility criteria, application process, benefits, and necessary documentation.""","Here are the key details about the **Financial Assistance Under The National Fund For Persons With Disabilities**:
+
+• It is a scheme by the Department of Empowerment of Persons with Disabilities (DEPwD) to provide financial assistance to Persons with Disabilities (PwDs) for various livelihood activities.
+
+• The scheme has three main components:
+
+1. Exhibitions/workshops to showcase products like paintings, handicrafts etc. made by PwDs:
+   - Provides financial assistance up to ₹20 lakh for national level events, ₹15 lakh for regional level events.
+   - Covers costs like venue, travel, logistics etc.
+
+2. Support for PwDs who have excelled in sports/arts/culture to participate in national and international events:
+   - Covers travel costs, daily allowance of ₹2,500 for national events, ₹4,000 for international events.
+
+3. Support for exclusive needs of persons with high support requirements:
+   - Provides up to ₹1 lakh for customized mobility equipment.
+
+[Source](https://www.myscheme.gov.in/schemes/fanf-pwd)",semantic,True,0.7240701913833618
