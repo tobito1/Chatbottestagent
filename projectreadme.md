@@ -1,3 +1,5 @@
+Below is an example of a detailed `README.md` for your Chatbot Testing project. You can save this content as `README.md` in your repository.
+
 ---
 
 # Chatbot Testing Framework with Agentic Routing and RAG Integration
